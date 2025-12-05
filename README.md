@@ -15,7 +15,7 @@ To Create a project on Time series analysis on weather forecasting using ARIMA m
 6. Auto-fit the ARIMA model
 7. Evaluate model predictions
 ### PROGRAM:
-```
+```python
 # Import necessary packages
 import pandas as pd
 import numpy as np
